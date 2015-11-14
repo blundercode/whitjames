@@ -17,7 +17,7 @@
 			
 
 
-
+		/*lets see if that fixes it
 		/* Hero height
 		================================================== */
 		var windowHeight = $(window).height();
